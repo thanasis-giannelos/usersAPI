@@ -7,7 +7,7 @@ Random users RESTful API that handles CRUD operations using MySQL database hoste
 
 ## Endpoints
 ```
-GET     l/users
+GET     /users
 GET     /users/:id
 POST    /users
 PUT     /users/:id
